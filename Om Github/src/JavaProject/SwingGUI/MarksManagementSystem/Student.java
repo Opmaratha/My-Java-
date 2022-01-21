@@ -4,6 +4,9 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+
+//this is simple java swing project just to see how to use GUI of swing
+
 public class Student {
     private JTextField txtStname;
     private JButton calButton;
@@ -42,9 +45,9 @@ public class Student {
                 txtAvg.setText(String.valueOf(avg));
 
                 if (avg>=35){
-                    txtGrade.setText("Pass");
+                    txtGrade.setText("Pass Congralutions");
                 }else{
-                    txtGrade.setText("Fail");
+                    txtGrade.setText("Fail Better luck next time");
                 }
 
             }
