@@ -1,4 +1,4 @@
-package JavaProject.JDBC.SMS.controller;
+package JavaCodes.Itvedant.JDBC.SMS.controller;
 
 import java.util.Scanner;
 

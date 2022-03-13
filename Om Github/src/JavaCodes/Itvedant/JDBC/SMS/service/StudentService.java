@@ -1,4 +1,4 @@
-package JavaProject.JDBC.SMS.service;
+package JavaCodes.Itvedant.JDBC.SMS.service;
 
 import JavaCodes.Itvedant.JDBC.SMS.model.Student;
 
